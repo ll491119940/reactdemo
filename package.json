@@ -1,0 +1,30 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ll491119940/reactdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ll491119940/reactdemo/issues"
+  },
+  "homepage": "https://github.com/ll491119940/reactdemo#readme",
+  "devDependencies": {
+    "umi": "^2.2.8",
+    "umi-plugin-react": "^1.2.3"
+  },
+  "dependencies": {
+    "antd": "^3.11.2",
+    "axios": "^0.18.0"
+  }
+}
